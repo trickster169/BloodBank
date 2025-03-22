@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\NV\BazePodataka\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\NV\BazePodataka\BloodBank\BloodBank\obj\Debug\BloodBank.frmHome.resources
+C:\Users\User\Desktop\NV\BazePodataka\BloodBank\BloodBank\obj\Debug\BloodBank.Properties.Resources.resources
+C:\Users\User\Desktop\NV\BazePodataka\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.GenerateResource.cache
+C:\Users\User\Desktop\NV\BazePodataka\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\NV\BazePodataka\BloodBank\BloodBank\bin\Debug\BloodBank.exe.config
+C:\Users\User\Desktop\NV\BazePodataka\BloodBank\BloodBank\bin\Debug\BloodBank.exe
+C:\Users\User\Desktop\NV\BazePodataka\BloodBank\BloodBank\bin\Debug\BloodBank.pdb
+C:\Users\User\Desktop\NV\BazePodataka\BloodBank\BloodBank\obj\Debug\BloodBank.exe
+C:\Users\User\Desktop\NV\BazePodataka\BloodBank\BloodBank\obj\Debug\BloodBank.pdb
+C:\Users\User\Desktop\NV\BazePodataka\BloodBank\BloodBank\obj\Debug\BloodBank.UI.frmUsers.resources
+C:\Users\User\Desktop\NV\BazePodataka\BloodBank\BloodBank\obj\Debug\BloodBank.UI.frmDonors.resources
+C:\Users\User\Desktop\NV\BazePodataka\BloodBank\BloodBank\obj\Debug\BloodBank.UI.frmLogin.resources
+C:\Users\User\Desktop\NV\BazePodataka\BloodBank\BloodBank\obj\Debug\BloodBank.UI.frmSplash.resources
